@@ -1,0 +1,11 @@
+{
+  "name": "b3a-api",
+  "version": "1.0.0",
+  "description": "Main REST API for serving the diferent projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Arevalo",
+  "license": "ISC"
+}
